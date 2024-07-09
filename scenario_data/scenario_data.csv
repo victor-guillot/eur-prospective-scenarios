@@ -1,0 +1,1076 @@
+﻿model,scenario,region,variables,unit,2020,2025,2030,2035,2040,2045,2050
+eTIMES-EUNA,trade,BG,Production|Electricity|Conventional|Coal chp,PJ/year,2.11931,2.11931,2.11931,2.11931,2.11931,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Conventional|Coal chp,PJ/year,18.32749,18.32749,18.32749,18.32749,18.32749,18.32748,0.0
+eTIMES-EUNA,trade,DE,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Conventional|Coal chp,PJ/year,12.81869,12.81869,12.81869,12.81869,8.42806,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Conventional|Coal pc hard,PJ/year,7.02302,3.60467,0.20962,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BG,Production|Electricity|Conventional|Coal pc hard,PJ/year,15.15053,12.77208,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Conventional|Coal pc hard,PJ/year,17.83014,17.83014,5.59721,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DE,Production|Electricity|Conventional|Coal pc hard,PJ/year,395.99551,336.29248,27.72,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Conventional|Coal pc hard,PJ/year,23.55618,12.17332,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Conventional|Coal pc hard,PJ/year,147.79346,18.13056,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Conventional|Coal pc hard,PJ/year,19.7978,12.07897,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Conventional|Coal pc hard,PJ/year,18.23903,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Conventional|Coal pc hard,PJ/year,4.43712,4.43712,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Conventional|Coal pc hard,PJ/year,0.01939,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Conventional|Coal pc hard,PJ/year,15.00483,6.78435,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Conventional|Coal pc hard,PJ/year,41.37698,32.40821,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Conventional|Coal pc hard,PJ/year,70.88473,20.63325,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Conventional|Coal pc hard,PJ/year,292.33304,282.96874,18.39938,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PT,Production|Electricity|Conventional|Coal pc hard,PJ/year,44.30177,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Conventional|Coal pc hard,PJ/year,0.47935,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Conventional|Coal pc hard,PJ/year,1.74836,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Conventional|Coal pc hard,PJ/year,75.67322,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BG,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.74731,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Conventional|Coal pc lignite,PJ/year,39.09363,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DE,Production|Electricity|Conventional|Coal pc lignite,PJ/year,353.61272,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Conventional|Coal pc lignite,PJ/year,15.53234,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Conventional|Coal pc lignite,PJ/year,2.45311,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.59918,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Conventional|Gas cc,PJ/year,6.75501,16.86654,56.75259,66.58769,29.82351,31.04748,31.56314
+eTIMES-EUNA,trade,BE,Production|Electricity|Conventional|Gas cc,PJ/year,40.73003,45.61751,9.57517,19.70191,52.08836,58.15424,74.54222
+eTIMES-EUNA,trade,BG,Production|Electricity|Conventional|Gas cc,PJ/year,0.0,0.21646,0.21646,0.21646,0.21646,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Conventional|Gas cc,PJ/year,0.29506,0.28564,0.1829,0.1829,0.1698,0.07368,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Conventional|Gas cc,PJ/year,58.31087,58.75976,67.41376,52.09148,35.45195,32.77496,55.8916
+eTIMES-EUNA,trade,DE,Production|Electricity|Conventional|Gas cc,PJ/year,123.14299,907.73799,1430.12729,1475.2047,1469.2628,1117.16456,423.13256
+eTIMES-EUNA,trade,DK,Production|Electricity|Conventional|Gas cc,PJ/year,0.0,1.50351,15.18385,30.0144,55.84304,12.18288,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Conventional|Gas cc,PJ/year,0.0,0.21673,0.21673,0.21673,0.0,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Conventional|Gas cc,PJ/year,52.56323,97.47292,172.86616,145.276,67.96368,135.04133,157.92402
+eTIMES-EUNA,trade,FI,Production|Electricity|Conventional|Gas cc,PJ/year,0.29874,0.24909,0.19524,0.049,0.049,0.0,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Conventional|Gas cc,PJ/year,110.41191,153.23643,171.80622,178.56652,211.16561,174.53049,360.08885
+eTIMES-EUNA,trade,GR,Production|Electricity|Conventional|Gas cc,PJ/year,97.97321,97.97321,97.97321,55.65335,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Conventional|Gas cc,PJ/year,9.91575,9.91575,9.91575,4.40068,0.0,0.0,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Conventional|Gas cc,PJ/year,48.77922,88.31035,73.54051,41.46399,37.2064,52.81214,68.59677
+eTIMES-EUNA,trade,IE,Production|Electricity|Conventional|Gas cc,PJ/year,31.52644,37.9382,43.26697,22.0357,18.83836,18.60751,18.59896
+eTIMES-EUNA,trade,IT,Production|Electricity|Conventional|Gas cc,PJ/year,581.5313,722.12973,789.86444,680.30705,428.03123,351.69149,262.63367
+eTIMES-EUNA,trade,LT,Production|Electricity|Conventional|Gas cc,PJ/year,1.42261,6.57658,10.17504,9.09026,7.93155,8.31993,8.47776
+eTIMES-EUNA,trade,LU,Production|Electricity|Conventional|Gas cc,PJ/year,0.81659,0.81659,0.81659,0.40492,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Conventional|Gas cc,PJ/year,4.61086,5.20529,5.63763,7.63137,3.48854,11.35806,18.19434
+eTIMES-EUNA,trade,NL,Production|Electricity|Conventional|Gas cc,PJ/year,200.39751,429.58501,586.44498,548.88498,605.60594,199.87895,35.60635
+eTIMES-EUNA,trade,NO,Production|Electricity|Conventional|Gas cc,PJ/year,5.90584,3.4163,7.56612,25.42819,34.21356,44.71095,28.412
+eTIMES-EUNA,trade,PL,Production|Electricity|Conventional|Gas cc,PJ/year,4.63629,8.7752,236.12005,233.68428,187.78953,98.99101,114.58608
+eTIMES-EUNA,trade,PT,Production|Electricity|Conventional|Gas cc,PJ/year,38.02779,45.52209,33.9431,9.19388,0.78367,0.04892,1e-05
+eTIMES-EUNA,trade,RO,Production|Electricity|Conventional|Gas cc,PJ/year,15.06209,0.20569,23.07486,14.20486,8.12936,4.90645,4.91774
+eTIMES-EUNA,trade,SE,Production|Electricity|Conventional|Gas cc,PJ/year,23.15601,57.108,67.09207,65.50272,74.30286,99.73742,127.3428
+eTIMES-EUNA,trade,SI,Production|Electricity|Conventional|Gas cc,PJ/year,11.44832,12.42253,14.84061,6.74787,3.39778,1.39106,0.0
+eTIMES-EUNA,trade,SK,Production|Electricity|Conventional|Gas cc,PJ/year,24.97336,32.60588,44.74666,33.98093,31.49405,53.26743,54.65405
+eTIMES-EUNA,trade,GB,Production|Electricity|Conventional|Gas cc,PJ/year,630.5321,833.29775,807.08829,841.89572,955.89546,929.27367,482.85332
+eTIMES-EUNA,trade,AT,Production|Electricity|Conventional|Gas chp,PJ/year,43.64524,45.83376,36.87914,36.87914,37.34701,39.2472,39.2472
+eTIMES-EUNA,trade,BE,Production|Electricity|Conventional|Gas chp,PJ/year,47.66722,63.48631,64.12969,60.55031,59.87426,57.30666,56.80758
+eTIMES-EUNA,trade,BG,Production|Electricity|Conventional|Gas chp,PJ/year,4.44452,4.44452,4.44452,6.40747,6.24215,8.36146,13.086
+eTIMES-EUNA,trade,CH,Production|Electricity|Conventional|Gas chp,PJ/year,0.78409,0.78409,0.78409,0.78483,1.6934,1.51939,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Conventional|Gas chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,19.89954
+eTIMES-EUNA,trade,DE,Production|Electricity|Conventional|Gas chp,PJ/year,279.44209,288.28921,291.65889,299.28252,323.88802,323.88802,323.88802
+eTIMES-EUNA,trade,DK,Production|Electricity|Conventional|Gas chp,PJ/year,32.44844,32.44844,32.44844,32.44844,32.44845,25.67266,25.49023
+eTIMES-EUNA,trade,EE,Production|Electricity|Conventional|Gas chp,PJ/year,0.432,0.432,0.432,0.432,0.432,0.36134,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Conventional|Gas chp,PJ/year,93.67626,93.67557,93.69096,46.24085,49.27808,49.27808,49.27808
+eTIMES-EUNA,trade,FI,Production|Electricity|Conventional|Gas chp,PJ/year,47.37862,43.87015,43.97059,30.70326,25.32987,20.36579,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Conventional|Gas chp,PJ/year,53.62677,48.58463,50.34343,50.38088,54.85505,60.5545,57.00457
+eTIMES-EUNA,trade,GR,Production|Electricity|Conventional|Gas chp,PJ/year,8.19093,8.19093,8.19093,8.19093,8.19094,8.19112,9.3384
+eTIMES-EUNA,trade,HR,Production|Electricity|Conventional|Gas chp,PJ/year,2.00275,2.00275,2.00275,2.21827,2.21827,2.33927,2.35216
+eTIMES-EUNA,trade,HU,Production|Electricity|Conventional|Gas chp,PJ/year,13.35622,13.37265,13.37265,13.30378,6.43998,6.46165,6.43998
+eTIMES-EUNA,trade,IE,Production|Electricity|Conventional|Gas chp,PJ/year,3.49544,3.50611,3.73091,8.21302,7.87047,8.75569,8.73555
+eTIMES-EUNA,trade,IS,Production|Electricity|Conventional|Gas chp,PJ/year,7.38272,1.60657,5.78097,1.72087,0.19599,0.07688,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Conventional|Gas chp,PJ/year,122.62161,131.69781,117.05818,124.74862,125.0963,125.0963,126.86841
+eTIMES-EUNA,trade,LT,Production|Electricity|Conventional|Gas chp,PJ/year,1.74833,2.00806,1.13842,1.33839,1.27377,1.27377,1.27377
+eTIMES-EUNA,trade,LU,Production|Electricity|Conventional|Gas chp,PJ/year,1.08368,0.67587,0.80339,1.02855,0.95334,0.81099,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Conventional|Gas chp,PJ/year,10.18856,10.1356,10.2267,3.27218,3.10031,3.6043,3.32573
+eTIMES-EUNA,trade,NL,Production|Electricity|Conventional|Gas chp,PJ/year,108.11184,112.962,108.1099,109.31558,111.20883,111.20883,110.7936
+eTIMES-EUNA,trade,NO,Production|Electricity|Conventional|Gas chp,PJ/year,10.81403,10.81403,10.81403,10.81403,10.81403,10.66598,9.06582
+eTIMES-EUNA,trade,PL,Production|Electricity|Conventional|Gas chp,PJ/year,80.05377,80.54989,40.63009,28.22146,25.7927,34.22076,34.22076
+eTIMES-EUNA,trade,PT,Production|Electricity|Conventional|Gas chp,PJ/year,21.18523,21.18523,21.18523,21.18523,22.84203,22.62591,22.2053
+eTIMES-EUNA,trade,RO,Production|Electricity|Conventional|Gas chp,PJ/year,22.4273,22.5285,18.85423,18.85423,19.03378,21.39872,21.41266
+eTIMES-EUNA,trade,SE,Production|Electricity|Conventional|Gas chp,PJ/year,17.37579,17.37579,17.37579,21.64965,21.64965,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Conventional|Gas chp,PJ/year,3.9851,3.9832,3.9986,1.99516,1.99516,1.99927,2.10884
+eTIMES-EUNA,trade,SK,Production|Electricity|Conventional|Gas chp,PJ/year,8.12645,8.12645,3.59447,3.39941,3.39941,3.23889,3.23889
+eTIMES-EUNA,trade,GB,Production|Electricity|Conventional|Gas chp,PJ/year,46.3825,46.42244,52.03439,52.03439,52.03439,52.80693,82.79759
+eTIMES-EUNA,trade,LU,Production|Electricity|Conventional|Gas oc,PJ/year,0.06042,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.81596
+eTIMES-EUNA,trade,AT,Production|Electricity|Conventional|Oil,PJ/year,6.1431,1.88372,1.8757,0.00232,0.0,0.0,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Conventional|Oil,PJ/year,2.18385,1.9492,1.86113,1.8604,0.0,0.0,0.0
+eTIMES-EUNA,trade,BG,Production|Electricity|Conventional|Oil,PJ/year,28.79377,28.79377,28.79377,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Conventional|Oil,PJ/year,0.52768,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DE,Production|Electricity|Conventional|Oil,PJ/year,24.26572,8.13325,2.57178,1.67172,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Conventional|Oil,PJ/year,1.36789,1.12221,0.40234,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Conventional|Oil,PJ/year,22.80601,21.1542,19.85211,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Conventional|Oil,PJ/year,38.42273,11.21412,0.48869,0.13058,0.0,0.0,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Conventional|Oil,PJ/year,9.64008,4.13678,4.13678,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Conventional|Oil,PJ/year,17.35044,14.52815,0.14944,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Conventional|Oil,PJ/year,9.28121,0.6542,0.6542,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Conventional|Oil,PJ/year,0.44858,0.42617,0.42617,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Conventional|Oil,PJ/year,0.59587,0.20122,0.03979,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Conventional|Oil,PJ/year,6.6059,0.5498,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Conventional|Oil,PJ/year,0.02498,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Conventional|Oil,PJ/year,30.50891,29.34396,18.48563,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Conventional|Oil,PJ/year,0.24708,0.24638,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Conventional|Oil,PJ/year,9e-05,9e-05,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Conventional|Oil,PJ/year,3.01459,3.01459,0.71776,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Conventional|Oil,PJ/year,134.71339,125.60578,125.60578,35.78442,4.68187,0.0,0.0
+eTIMES-EUNA,trade,PT,Production|Electricity|Conventional|Oil,PJ/year,5.59443,2.87514,2.87514,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Conventional|Oil,PJ/year,2.1797,2.1797,2.17862,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Conventional|Oil,PJ/year,0.52284,0.24208,0.24208,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Conventional|Oil,PJ/year,0.05353,0.02248,0.02248,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SK,Production|Electricity|Conventional|Oil,PJ/year,2.43584,2.03862,2.02824,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Conventional|Oil,PJ/year,8.06733,4.87047,1e-05,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Conventional|Sludge,PJ/year,0.46131,0.46131,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Conventional|Sludge,PJ/year,6.34245,3.36997,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DE,Production|Electricity|Conventional|Sludge,PJ/year,0.35845,0.35301,0.03543,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Conventional|Sludge,PJ/year,0.23534,0.23534,0.04379,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Conventional|Sludge,PJ/year,0.0136,0.0136,0.00132,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Conventional|Sludge,PJ/year,0.67196,0.67196,0.33953,0.05251,0.0,0.0,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Conventional|Sludge,PJ/year,0.11936,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Conventional|Sludge,PJ/year,0.00474,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,0.00731,0.08866,0.00731,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,8.11706,8.74726,1.91519,0.95398,0.0,0.0,0.0
+eTIMES-EUNA,trade,BG,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,6.24019,6.24019,6.2159,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,3.35562,3.10018,1.27611,0.83167,0.0,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,10.71387,10.56695,10.56695,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DE,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,13.4671,0.37806,0.26464,0.20114,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,5.0659,4.20735,4.20415,4.20415,0.0,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,0.29427,0.29427,0.20599,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,32.52,30.54244,30.65409,0.11004,0.0,0.0,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,9.7362,3.33884,0.87516,0.00116,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,0.07422,0.07422,0.05227,0.00106,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,3.85388,2.99383,2.99383,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,3.12087,3.10445,3.10386,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,3.0798,3.0798,3.33834,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,30.69717,1.30623,0.02168,0.02134,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,1.84618,1.84618,1.79448,0.03351,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,0.80424,0.80218,0.79895,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,0.47478,0.47554,0.47478,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,0.04659,2.40726,0.03261,0.02878,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,0.02581,0.02581,0.01807,0.0081,0.0,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,4.32592,3.53414,3.53414,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PT,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,0.01421,0.01421,0.00995,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,0.54613,0.00908,0.00636,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,11.61645,11.61645,10.82791,6.54137,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,0.00017,0.00017,0.00012,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SK,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,3.00465,1.94136,1.73577,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,4.17024,0.37448,0.13621,0.13621,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Import|Import from AT,PJ/year,0.01051,0.0,0.17791,0.0,3.71312,15.48956,13.4204
+eTIMES-EUNA,trade,CZ,Production|Electricity|Import|Import from AT,PJ/year,0.0,0.0,1.34536,1.24633,1.28099,0.13807,0.64912
+eTIMES-EUNA,trade,DE,Production|Electricity|Import|Import from AT,PJ/year,0.0,0.0,8.87275,6.26542,12.97093,50.04492,97.14183
+eTIMES-EUNA,trade,HU,Production|Electricity|Import|Import from AT,PJ/year,0.0,0.0,0.0796,0.0,0.0,0.0,0.55406
+eTIMES-EUNA,trade,IT,Production|Electricity|Import|Import from AT,PJ/year,0.46027,0.0,0.0,0.15184,3.17703,3.18699,5.07086
+eTIMES-EUNA,trade,SI,Production|Electricity|Import|Import from AT,PJ/year,0.8478,0.05954,0.16733,0.0,0.07125,0.19377,0.16924
+eTIMES-EUNA,trade,DE,Production|Electricity|Import|Import from BE,PJ/year,0.0,0.0,0.0,0.0,0.0,0.87191,1.29304
+eTIMES-EUNA,trade,FR,Production|Electricity|Import|Import from BE,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Import|Import from BE,PJ/year,0.0,0.06335,0.18786,0.05466,0.0,0.0,0.51608
+eTIMES-EUNA,trade,NL,Production|Electricity|Import|Import from BE,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,3.48467
+eTIMES-EUNA,trade,GB,Production|Electricity|Import|Import from BE,PJ/year,0.0,0.0,0.0,0.0,0.0,0.7434,2.31838
+eTIMES-EUNA,trade,GR,Production|Electricity|Import|Import from BG,PJ/year,10.78531,7.2512,0.0,8.03053,14.85271,18.11651,17.41745
+eTIMES-EUNA,trade,RO,Production|Electricity|Import|Import from BG,PJ/year,9.43715,3.85027,0.0,0.0,2.27318,3.81399,4.44961
+eTIMES-EUNA,trade,AT,Production|Electricity|Import|Import from CH,PJ/year,1.31535,3.21687,0.05024,0.0,0.0,0.02542,0.0
+eTIMES-EUNA,trade,DE,Production|Electricity|Import|Import from CH,PJ/year,7.71849,6.06445,26.62475,20.06473,8.01985,9.88907,29.1502
+eTIMES-EUNA,trade,FR,Production|Electricity|Import|Import from CH,PJ/year,0.48287,0.03437,0.0,1.39148,0.0,1.8906,1.31451
+eTIMES-EUNA,trade,IT,Production|Electricity|Import|Import from CH,PJ/year,11.09017,3.29113,0.0,0.64302,7.55067,1.06811,0.16042
+eTIMES-EUNA,trade,AT,Production|Electricity|Import|Import from CZ,PJ/year,14.18794,2.17231,3.62989,4.98023,5.56982,4.77554,11.48565
+eTIMES-EUNA,trade,DE,Production|Electricity|Import|Import from CZ,PJ/year,3.98577,5.14539,12.07022,7.70297,26.85199,43.621,81.32033
+eTIMES-EUNA,trade,PL,Production|Electricity|Import|Import from CZ,PJ/year,0.0,0.0,0.40413,4.01081,9.54353,7.12209,2.9724
+eTIMES-EUNA,trade,SK,Production|Electricity|Import|Import from CZ,PJ/year,0.0,0.0,0.6655,0.0,0.58877,0.0,0.54188
+eTIMES-EUNA,trade,AT,Production|Electricity|Import|Import from DE,PJ/year,32.55428,24.10002,7.83964,12.09955,0.0,0.0,0.33734
+eTIMES-EUNA,trade,BE,Production|Electricity|Import|Import from DE,PJ/year,16.52051,16.73551,9.4621,26.15319,24.53072,13.80236,7.5294
+eTIMES-EUNA,trade,CH,Production|Electricity|Import|Import from DE,PJ/year,31.11673,6.74498,0.0,17.47663,11.69761,13.40049,6.83317
+eTIMES-EUNA,trade,CZ,Production|Electricity|Import|Import from DE,PJ/year,0.26175,0.0,3.78899,4.29671,0.67858,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Import|Import from DE,PJ/year,0.0,0.0,0.0,1.15499,0.0,0.53197,1.09817
+eTIMES-EUNA,trade,FR,Production|Electricity|Import|Import from DE,PJ/year,10.9367,3.84585,0.0,4.23594,2.31778,4.32198,5.76217
+eTIMES-EUNA,trade,LU,Production|Electricity|Import|Import from DE,PJ/year,24.61221,28.10889,31.75726,28.88251,21.91895,18.42942,12.08837
+eTIMES-EUNA,trade,NL,Production|Electricity|Import|Import from DE,PJ/year,0.0,20.94665,2.84404,4.744,0.29743,0.11343,10.40074
+eTIMES-EUNA,trade,NO,Production|Electricity|Import|Import from DE,PJ/year,0.0,0.0,0.0,3.0082,3.38064,6.02557,10.8246
+eTIMES-EUNA,trade,PL,Production|Electricity|Import|Import from DE,PJ/year,0.0,0.0,0.33279,4.22379,5.43511,0.00092,0.49973
+eTIMES-EUNA,trade,SE,Production|Electricity|Import|Import from DE,PJ/year,0.0,0.0,0.0,0.0,1.06975,1.81229,2.83939
+eTIMES-EUNA,trade,GB,Production|Electricity|Import|Import from DE,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DE,Production|Electricity|Import|Import from DK,PJ/year,14.41118,21.33894,19.2718,13.5413,16.86969,28.17963,49.9364
+eTIMES-EUNA,trade,NL,Production|Electricity|Import|Import from DK,PJ/year,3.39318,9.97107,0.61389,6.03179,3.3991,4.28032,2.66652
+eTIMES-EUNA,trade,NO,Production|Electricity|Import|Import from DK,PJ/year,0.0,0.0,0.0,0.159,2.28883,24.93724,17.90926
+eTIMES-EUNA,trade,SE,Production|Electricity|Import|Import from DK,PJ/year,0.0,0.0,0.0,0.0,0.0,0.18358,2.65981
+eTIMES-EUNA,trade,GB,Production|Electricity|Import|Import from DK,PJ/year,0.0,8.25905,2.08255,6.3107,7.7822,9.9523,4.38337
+eTIMES-EUNA,trade,FI,Production|Electricity|Import|Import from EE,PJ/year,2.16882,18.76896,19.31669,4.93412,17.83789,23.57652,23.5242
+eTIMES-EUNA,trade,LV,Production|Electricity|Import|Import from EE,PJ/year,0.03498,0.0,0.1509,0.23882,0.0,0.0,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Import|Import from ES,PJ/year,17.72435,61.61431,46.84269,73.36712,153.62791,209.42043,183.97259
+eTIMES-EUNA,trade,PT,Production|Electricity|Import|Import from ES,PJ/year,0.0,5.15552,0.34714,2.05917,0.0,0.0,0.49014
+eTIMES-EUNA,trade,EE,Production|Electricity|Import|Import from FI,PJ/year,0.50493,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Import|Import from FI,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Import|Import from FI,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Import|Import from FR,PJ/year,33.59803,132.74108,142.26035,144.6965,144.6965,118.05554,70.86971
+eTIMES-EUNA,trade,CH,Production|Electricity|Import|Import from FR,PJ/year,29.0374,51.53219,58.38716,65.97279,50.13036,18.99017,17.73032
+eTIMES-EUNA,trade,DE,Production|Electricity|Import|Import from FR,PJ/year,43.12985,34.79586,40.60272,36.36712,33.73844,12.49163,47.51826
+eTIMES-EUNA,trade,ES,Production|Electricity|Import|Import from FR,PJ/year,51.04092,2.4136,0.0,0.0,0.14878,1.279,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Import|Import from FR,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Import|Import from FR,PJ/year,30.19494,36.83268,2.45165,38.94595,33.91137,0.36213,19.53183
+eTIMES-EUNA,trade,LU,Production|Electricity|Import|Import from FR,PJ/year,0.0,9.50535,10.03974,9.72321,10.19899,7.04638,6.33614
+eTIMES-EUNA,trade,GB,Production|Electricity|Import|Import from FR,PJ/year,38.20363,9.89572,23.67643,40.6494,42.72771,15.58946,23.50826
+eTIMES-EUNA,trade,BE,Production|Electricity|Import|Import from GB,PJ/year,12.2827,21.65932,22.98466,25.14251,23.77363,14.86906,17.01363
+eTIMES-EUNA,trade,DE,Production|Electricity|Import|Import from GB,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Import|Import from GB,PJ/year,0.0,0.9786,2.67358,0.47608,0.0,0.02947,4.44809
+eTIMES-EUNA,trade,FR,Production|Electricity|Import|Import from GB,PJ/year,3.12938,12.92783,0.56993,0.0,0.0,0.6506,15.99002
+eTIMES-EUNA,trade,IE,Production|Electricity|Import|Import from GB,PJ/year,0.0,0.0,0.0,0.34009,0.32526,0.14497,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Import|Import from GB,PJ/year,4.47301,11.7267,2.56967,1.47696,1.33016,0.0,11.04188
+eTIMES-EUNA,trade,NO,Production|Electricity|Import|Import from GB,PJ/year,0.0,0.0,3.57058,2.74957,2.44781,4.25471,27.85222
+eTIMES-EUNA,trade,BG,Production|Electricity|Import|Import from GR,PJ/year,0.0,0.0,1.53224,1.8892,3.07939,6.34182,2.5844
+eTIMES-EUNA,trade,IT,Production|Electricity|Import|Import from GR,PJ/year,6.63517,4.34859,0.0,2.68589,14.43309,26.75388,25.23327
+eTIMES-EUNA,trade,HU,Production|Electricity|Import|Import from HR,PJ/year,0.0,0.0,0.0,0.15496,0.71006,0.02643,0.17807
+eTIMES-EUNA,trade,SI,Production|Electricity|Import|Import from HR,PJ/year,1.83211,4.23177,1.33473,9.99286,14.9762,17.33674,24.13624
+eTIMES-EUNA,trade,AT,Production|Electricity|Import|Import from HU,PJ/year,5.0416,7.40371,0.0,4.09233,8.54393,12.17346,29.51273
+eTIMES-EUNA,trade,HR,Production|Electricity|Import|Import from HU,PJ/year,8.69823,8.64277,2.25377,0.0,0.0,1.10081,0.04971
+eTIMES-EUNA,trade,RO,Production|Electricity|Import|Import from HU,PJ/year,0.0117,0.12818,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Import|Import from HU,PJ/year,0.0,0.17911,0.0,0.0,1.60435,8.28207,9.74423
+eTIMES-EUNA,trade,SK,Production|Electricity|Import|Import from HU,PJ/year,0.0,0.0021,0.0,0.0,0.99509,17.83047,13.63121
+eTIMES-EUNA,trade,FR,Production|Electricity|Import|Import from IE,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Import|Import from IE,PJ/year,3.65443,4.12181,8.92854,8.73162,10.33733,13.18249,11.76015
+eTIMES-EUNA,trade,AT,Production|Electricity|Import|Import from IT,PJ/year,0.0,4.14968,9.54516,0.54025,1.47813,2.06213,2.57578
+eTIMES-EUNA,trade,CH,Production|Electricity|Import|Import from IT,PJ/year,0.0,4.50329,19.70076,3.08022,9.07044,20.71102,33.80789
+eTIMES-EUNA,trade,FR,Production|Electricity|Import|Import from IT,PJ/year,0.03975,0.13842,2.52543,0.37236,7.40843,13.95477,25.8078
+eTIMES-EUNA,trade,GR,Production|Electricity|Import|Import from IT,PJ/year,0.0,9.03704,3.35653,0.0,0.0,0.0,0.25273
+eTIMES-EUNA,trade,SI,Production|Electricity|Import|Import from IT,PJ/year,0.0,0.33547,1.49561,0.0,0.42763,1.08881,0.8246
+eTIMES-EUNA,trade,LV,Production|Electricity|Import|Import from LT,PJ/year,0.0,0.0,1.40563,5.35959,0.06086,0.0,0.3246
+eTIMES-EUNA,trade,PL,Production|Electricity|Import|Import from LT,PJ/year,0.06602,8.17857,9.63891,14.1912,14.1912,7.57425,10.86021
+eTIMES-EUNA,trade,SE,Production|Electricity|Import|Import from LT,PJ/year,0.0,0.0,0.0,0.07609,7.49164,16.33458,15.17074
+eTIMES-EUNA,trade,BE,Production|Electricity|Import|Import from LU,PJ/year,0.0,5.801,3.30589,3.63641,5.73539,4.86428,1.86714
+eTIMES-EUNA,trade,DE,Production|Electricity|Import|Import from LU,PJ/year,0.0,0.0,0.0,0.0,0.0,0.08415,0.47184
+eTIMES-EUNA,trade,FR,Production|Electricity|Import|Import from LU,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.21957
+eTIMES-EUNA,trade,EE,Production|Electricity|Import|Import from LV,PJ/year,1.22656,0.0,0.0108,5.22344,11.36412,16.68142,13.26017
+eTIMES-EUNA,trade,LT,Production|Electricity|Import|Import from LV,PJ/year,0.82091,0.47219,0.04196,0.01458,2.71711,3.78282,3.05281
+eTIMES-EUNA,trade,ES,Production|Electricity|Import|Import from MA,PJ/year,37.74859,37.74859,36.47991,37.01381,37.36533,25.38936,31.36377
+eTIMES-EUNA,trade,BE,Production|Electricity|Import|Import from NL,PJ/year,22.59249,42.99452,67.76649,73.28188,85.87065,58.67976,40.28106
+eTIMES-EUNA,trade,DE,Production|Electricity|Import|Import from NL,PJ/year,6.76095,0.0,0.0,0.0,0.76806,8.98649,59.25265
+eTIMES-EUNA,trade,DK,Production|Electricity|Import|Import from NL,PJ/year,0.0,0.0,0.0,0.0,0.0,0.34987,2.21758
+eTIMES-EUNA,trade,NO,Production|Electricity|Import|Import from NL,PJ/year,0.0,0.0,0.0,0.0,1.45366,4.60836,9.1371
+eTIMES-EUNA,trade,GB,Production|Electricity|Import|Import from NL,PJ/year,2.61938,0.0,0.0,1.09285,1.93482,2.47769,4.99134
+eTIMES-EUNA,trade,DE,Production|Electricity|Import|Import from NO,PJ/year,23.57758,28.35513,25.32027,18.99747,7.5469,1.80237,11.55599
+eTIMES-EUNA,trade,DK,Production|Electricity|Import|Import from NO,PJ/year,13.45365,12.1541,7.96015,3.77404,0.88045,0.0,2.94808
+eTIMES-EUNA,trade,FI,Production|Electricity|Import|Import from NO,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Import|Import from NO,PJ/year,9.37954,15.89005,8.98399,10.28668,5.36041,0.65537,1.62386
+eTIMES-EUNA,trade,SE,Production|Electricity|Import|Import from NO,PJ/year,3.75632,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Import|Import from NO,PJ/year,0.0,26.10435,17.11658,14.41729,10.62055,2.44223,0.12869
+eTIMES-EUNA,trade,CZ,Production|Electricity|Import|Import from PL,PJ/year,5.00343,9.56482,5.77619,0.02173,0.27157,2.31205,1.65245
+eTIMES-EUNA,trade,DE,Production|Electricity|Import|Import from PL,PJ/year,5.77714,27.02769,16.07681,4.6347,7.37339,36.89268,68.53226
+eTIMES-EUNA,trade,LT,Production|Electricity|Import|Import from PL,PJ/year,5.52663,0.0,0.0,0.0,0.0,0.14339,0.3305
+eTIMES-EUNA,trade,SE,Production|Electricity|Import|Import from PL,PJ/year,0.0,0.0,0.0,0.0,0.0,4.10883,3.81471
+eTIMES-EUNA,trade,SK,Production|Electricity|Import|Import from PL,PJ/year,4.98238,8.62852,0.77323,8e-05,0.07134,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Import|Import from PT,PJ/year,0.0,0.0,1.3996,14.06243,32.14735,30.02275,33.35038
+eTIMES-EUNA,trade,BG,Production|Electricity|Import|Import from RO,PJ/year,0.0,3.05638,4.35285,9.84135,8.69821,2.77387,1.96289
+eTIMES-EUNA,trade,HU,Production|Electricity|Import|Import from RO,PJ/year,0.33332,2.39711,3.33863,12.99917,10.72231,24.84096,19.09602
+eTIMES-EUNA,trade,DE,Production|Electricity|Import|Import from SE,PJ/year,10.24452,16.5654,16.42041,14.87589,9.32381,4.93519,20.76755
+eTIMES-EUNA,trade,DK,Production|Electricity|Import|Import from SE,PJ/year,13.41086,53.37786,48.93,46.84029,19.37649,0.29639,6.48197
+eTIMES-EUNA,trade,FI,Production|Electricity|Import|Import from SE,PJ/year,33.5168,59.67684,74.3398,72.58101,81.44443,79.44391,78.38258
+eTIMES-EUNA,trade,LT,Production|Electricity|Import|Import from SE,PJ/year,5.87024,1.73113,2.2376,0.29699,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Import|Import from SE,PJ/year,3.76546,15.16781,25.04007,36.76276,27.14295,14.58338,80.80062
+eTIMES-EUNA,trade,PL,Production|Electricity|Import|Import from SE,PJ/year,2.73807,14.83423,14.55607,15.15313,9.67282,0.0,2.35691
+eTIMES-EUNA,trade,AT,Production|Electricity|Import|Import from SI,PJ/year,0.11604,0.28444,0.06234,0.31805,1.55614,5.61611,15.15139
+eTIMES-EUNA,trade,HR,Production|Electricity|Import|Import from SI,PJ/year,1.20292,4.13278,3.09198,0.0,0.0,0.0,0.19541
+eTIMES-EUNA,trade,HU,Production|Electricity|Import|Import from SI,PJ/year,0.0,0.18833,0.7868,0.0,0.0,0.16826,0.12102
+eTIMES-EUNA,trade,IT,Production|Electricity|Import|Import from SI,PJ/year,4.31173,1.0536,0.0,1.54317,2.59743,8.26579,14.68467
+eTIMES-EUNA,trade,CZ,Production|Electricity|Import|Import from SK,PJ/year,0.0,5.34489,1.16874,1.84202,1.18847,7.61375,17.90186
+eTIMES-EUNA,trade,HU,Production|Electricity|Import|Import from SK,PJ/year,5.56976,0.32915,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Import|Import from SK,PJ/year,0.0,0.0,0.60945,5.49149,6.69885,27.17445,25.62783
+eTIMES-EUNA,trade,IT,Production|Electricity|Import|Import from TN,PJ/year,0.0,0.0,0.0,16.17797,16.17797,16.17797,16.17797
+eTIMES-EUNA,trade,BE,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,95.54662,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BG,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,56.1873,56.1873,56.1873,56.1873,56.1873,56.1873,28.56486
+eTIMES-EUNA,trade,CH,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,71.59021,71.57388,71.57388,69.6681,26.85566,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,89.55939,89.59206,88.35016,89.46658,104.97191,54.38672,32.85899
+eTIMES-EUNA,trade,DE,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,282.66253,130.31015,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,211.07714,211.0788,211.05823,211.0549,210.98161,94.54185,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,82.43693,82.43694,96.62135,96.48302,57.27411,15.79096,15.79096
+eTIMES-EUNA,trade,FR,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,1409.26921,1432.86993,1448.7138,1449.60954,1246.47349,644.12913,289.20028
+eTIMES-EUNA,trade,HU,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,57.34211,29.06449,0.36449,0.34896,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,13.57305,13.57305,13.57305,12.99465,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,40.93708,40.93708,40.93708,40.9337,41.29013,41.25527,20.4008
+eTIMES-EUNA,trade,SE,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,224.41744,227.17039,227.17039,222.73626,123.11717,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,20.52652,20.52652,20.52652,20.52652,20.52652,20.61193,20.61193
+eTIMES-EUNA,trade,SK,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,54.10155,53.89745,53.89745,53.70443,20.95,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,253.5931,256.85329,260.53377,257.56275,258.37424,287.95075,304.78521
+eTIMES-EUNA,trade,ES,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0372,0.82513,0.82513,0.82513,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Renewable|Biogas chp,PJ/year,0.10231,2.36806,2.36806,2.36806,2.36806,0.17667,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Renewable|Biogas chp,PJ/year,4.35136,4.35136,4.35136,4.35136,4.35136,4.35136,0.0
+eTIMES-EUNA,trade,BG,Production|Electricity|Renewable|Biogas chp,PJ/year,0.36293,0.36293,0.36293,0.36293,0.36293,0.36293,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Renewable|Biogas chp,PJ/year,5.58496,5.58496,7.01901,7.17251,6.2994,6.3334,2.77972
+eTIMES-EUNA,trade,CZ,Production|Electricity|Renewable|Biogas chp,PJ/year,1.27716,1.27716,1.27716,1.27716,1.27716,1.27716,1.27716
+eTIMES-EUNA,trade,DE,Production|Electricity|Renewable|Biogas chp,PJ/year,51.83584,51.83584,51.83584,51.83584,51.83584,51.83584,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Renewable|Biogas chp,PJ/year,0.80645,0.80645,0.80645,0.80645,0.80645,0.80645,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Renewable|Biogas chp,PJ/year,0.198,0.198,0.198,0.198,0.198,0.198,0.198
+eTIMES-EUNA,trade,ES,Production|Electricity|Renewable|Biogas chp,PJ/year,5.25894,5.25894,5.24423,5.17266,5.17266,5.17266,5.17266
+eTIMES-EUNA,trade,FI,Production|Electricity|Renewable|Biogas chp,PJ/year,0.36338,3.68766,3.05907,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Renewable|Biogas chp,PJ/year,3.24948,3.24948,3.24948,3.24948,3.24948,3.24948,3.24948
+eTIMES-EUNA,trade,GR,Production|Electricity|Renewable|Biogas chp,PJ/year,1.14641,1.14641,1.14641,1.14641,1.14641,1.14641,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Renewable|Biogas chp,PJ/year,0.28822,0.28822,0.28822,0.28822,0.28822,0.28822,0.28822
+eTIMES-EUNA,trade,HU,Production|Electricity|Renewable|Biogas chp,PJ/year,0.87687,0.87687,0.87687,0.87687,0.87687,0.87687,0.87687
+eTIMES-EUNA,trade,IE,Production|Electricity|Renewable|Biogas chp,PJ/year,1.32227,1.3116,1.32227,1.32227,1.32227,0.05635,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Renewable|Biogas chp,PJ/year,40.44494,40.44494,40.44494,40.44494,40.44494,40.44494,18.35559
+eTIMES-EUNA,trade,LT,Production|Electricity|Renewable|Biogas chp,PJ/year,0.1665,0.1665,0.1665,0.1665,0.1665,0.1665,0.1665
+eTIMES-EUNA,trade,LU,Production|Electricity|Renewable|Biogas chp,PJ/year,0.13004,0.13004,0.13004,0.13004,0.13004,0.13004,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Renewable|Biogas chp,PJ/year,0.51612,0.51612,0.51612,0.51612,0.51612,0.51612,0.51612
+eTIMES-EUNA,trade,NL,Production|Electricity|Renewable|Biogas chp,PJ/year,2.67749,2.67749,2.67749,2.67749,2.67749,2.67749,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Renewable|Biogas chp,PJ/year,2.53699,2.53699,2.53699,2.53699,2.53699,2.53699,2.53699
+eTIMES-EUNA,trade,PT,Production|Electricity|Renewable|Biogas chp,PJ/year,1.31117,1.31117,1.31117,1.31117,1.31117,1.31117,1.31117
+eTIMES-EUNA,trade,RO,Production|Electricity|Renewable|Biogas chp,PJ/year,0.17955,0.17955,0.17955,0.17955,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Renewable|Biogas chp,PJ/year,4.96138,4.96138,4.96138,4.96138,4.96138,4.96138,4.96138
+eTIMES-EUNA,trade,SI,Production|Electricity|Renewable|Biogas chp,PJ/year,0.3554,0.3554,0.3554,0.3554,0.3554,0.3554,0.3554
+eTIMES-EUNA,trade,SK,Production|Electricity|Renewable|Biogas chp,PJ/year,0.85108,0.85108,0.85108,0.85108,0.85108,0.85108,0.85108
+eTIMES-EUNA,trade,GB,Production|Electricity|Renewable|Biogas chp,PJ/year,25.69239,28.76166,28.76166,28.76166,28.76166,28.76166,0.2046
+eTIMES-EUNA,trade,BE,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BG,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.00784,0.00784,0.00784,0.29804,1.09425,1.23427,6.30733
+eTIMES-EUNA,trade,DE,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.22023,0.66071,0.05521,3.85397,3.85397,3.19704,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,5.01229,5.87083,5.87083,5.87083,5.87083,13.10788,17.83216
+eTIMES-EUNA,trade,EE,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.0,0.0,0.0,0.0,0.40196,0.49188,1.42801
+eTIMES-EUNA,trade,ES,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.0,0.00069,0.0,0.00389,0.00389,0.00323,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.15541,0.3396,0.80581,13.02452,22.37385,24.64976,59.59701
+eTIMES-EUNA,trade,FR,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.30954,0.27653,0.26669,0.37558,0.33055,0.47931,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.0,0.0,0.0,0.0,0.00105,0.00087,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.0,0.0,0.0,0.13389,0.13389,0.01289,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.0,0.0,0.0,0.08047,0.08047,0.05006,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.05437,0.09288,0.03991,0.11469,0.13269,0.34558,1.00273
+eTIMES-EUNA,trade,LV,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.03815,0.09111,0.0,0.13269,0.13269,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.00426,0.03619,0.0062,0.03619,0.00052,0.00043,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.0,0.0,0.0,0.0,0.0,0.08743,0.29479
+eTIMES-EUNA,trade,PL,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PT,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.02413,0.03079,0.00302,0.00302,0.00302,0.00251,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.0,0.0,0.0,0.0,6.54137,28.19102,29.02093
+eTIMES-EUNA,trade,SI,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.0191,0.021,0.0056,0.02412,0.02412,0.02001,0.77636
+eTIMES-EUNA,trade,SK,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.03993,0.1593,0.03993,0.65213,0.81641,0.27255,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BG,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,4.19629,4.36161,4.36161,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,10.56695,10.56695,10.56695,8.9949
+eTIMES-EUNA,trade,DE,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,0.0,4.19668,4.19668,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Renewable|Biomass chp,PJ/year,2.754,2.754,2.754,2.754,2.35204,2.34867,1.87892
+eTIMES-EUNA,trade,ES,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,47.51779,47.51779,47.51779,44.48447
+eTIMES-EUNA,trade,FI,Production|Electricity|Renewable|Biomass chp,PJ/year,0.15424,0.15424,0.21618,35.97958,35.97958,35.97958,18.99459
+eTIMES-EUNA,trade,FR,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,3.36631,2.64442,2.64442,2.64442
+eTIMES-EUNA,trade,HU,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,3.17135,10.03515,10.03515,10.03515
+eTIMES-EUNA,trade,IE,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Renewable|Biomass chp,PJ/year,0.25973,0.0,0.8858,2.4468,2.54493,2.54494,2.54494
+eTIMES-EUNA,trade,LU,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,0.0,0.05721,0.05721,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,7.5089,7.8066,7.95725,7.95725
+eTIMES-EUNA,trade,PL,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,40.04597,55.95555,63.29165,62.59865,62.59865
+eTIMES-EUNA,trade,PT,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.06282,0.06282
+eTIMES-EUNA,trade,SI,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,1.98492,1.98492,1.98492,1.119
+eTIMES-EUNA,trade,SK,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,4.74588,6.69847,6.69848,7.18591,7.18591
+eTIMES-EUNA,trade,BE,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.13242,0.13242,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,3.59943,4.7523,4.7523
+eTIMES-EUNA,trade,FI,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,3.18985,1.93555,4.32386,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.20297,0.22515,0.22515
+eTIMES-EUNA,trade,BG,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.10014,4.03768
+eTIMES-EUNA,trade,DE,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,182.46117,183.42947,228.62847
+eTIMES-EUNA,trade,DK,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,2.33773,2.33773
+eTIMES-EUNA,trade,FR,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,66.2256,123.51768
+eTIMES-EUNA,trade,HR,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.88891,0.99537,1.03936
+eTIMES-EUNA,trade,IE,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,6.46761,6.46761,6.46761
+eTIMES-EUNA,trade,IT,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,1e-05,87.36717,104.66022
+eTIMES-EUNA,trade,LT,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,3.04903,3.1073,3.1073
+eTIMES-EUNA,trade,LV,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,2.84562,5.76304,7.85723
+eTIMES-EUNA,trade,PL,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,46.24977,52.5083,58.34313
+eTIMES-EUNA,trade,PT,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,1.80915,9.62802
+eTIMES-EUNA,trade,SI,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SK,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,11.31272,17.88731,17.88731
+eTIMES-EUNA,trade,GB,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,70.06318,70.06318,70.06318
+eTIMES-EUNA,trade,BE,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.13098,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.44616,0.44784,1.94626
+eTIMES-EUNA,trade,FI,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Renewable|Biomass st,PJ/year,2.36028,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SK,Production|Electricity|Renewable|Biomass st,PJ/year,0.29065,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DE,Production|Electricity|Renewable|CSP,PJ/year,0.00474,0.00474,0.00474,0.00474,0.0,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Renewable|CSP,PJ/year,12.47103,12.47103,12.47103,12.47103,0.0,0.0,0.0
+eTIMES-EUNA,trade,BG,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,0.0,2.52,2.52,2.52
+eTIMES-EUNA,trade,CZ,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,24.0,24.0,24.0,24.0
+eTIMES-EUNA,trade,DE,Production|Electricity|Renewable|Geothermal,PJ/year,1.07222,1.07223,1.07223,20.52,20.52,20.52,20.52
+eTIMES-EUNA,trade,ES,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,0.0,0.0,34.78,34.78
+eTIMES-EUNA,trade,HU,Production|Electricity|Renewable|Geothermal,PJ/year,0.02681,0.02681,0.02681,0.0,2.16,2.16,2.16
+eTIMES-EUNA,trade,IS,Production|Electricity|Renewable|Geothermal,PJ/year,14.44045,7.53467,0.0,0.0,1e-05,1e-05,1e-05
+eTIMES-EUNA,trade,IT,Production|Electricity|Renewable|Geothermal,PJ/year,24.55393,24.55393,24.55393,26.17,26.17,26.17,26.17
+eTIMES-EUNA,trade,PL,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,12.6,12.6,12.6,12.6
+eTIMES-EUNA,trade,PT,Production|Electricity|Renewable|Geothermal,PJ/year,0.77736,0.77736,0.77736,0.0,0.0,0.0,1.08
+eTIMES-EUNA,trade,SK,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,0.0,0.21,0.21,0.21
+eTIMES-EUNA,trade,AT,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,3.53757,3.53757,3.53757,3.33031,73.99293,129.92742,149.12133
+eTIMES-EUNA,trade,BE,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,11.93258,11.93258,11.93258,11.18241,1.47342,46.80045,94.36887
+eTIMES-EUNA,trade,BG,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,4.75735,4.75735,4.75735,4.36407,5.98636,21.65045,39.93841
+eTIMES-EUNA,trade,CH,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,9.13458,9.13458,9.13458,8.89056,78.07009,143.54834,145.4147
+eTIMES-EUNA,trade,CZ,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,7.66765,7.67134,7.67134,7.12423,18.33248,45.66955,93.09458
+eTIMES-EUNA,trade,DE,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,134.08635,134.08635,128.58803,128.58803,11.35372,241.37123,652.32125
+eTIMES-EUNA,trade,DK,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,2.52171,2.52171,2.52171,1.84409,0.46397,11.10474,10.92669
+eTIMES-EUNA,trade,EE,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,0.03085,0.03085,0.03085,0.02243,0.0,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,26.32021,26.32021,25.06158,15.64648,170.32869,175.46892,240.30387
+eTIMES-EUNA,trade,FI,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,0.24741,0.24317,0.15462,0.21323,0.15406,0.0,3.73673
+eTIMES-EUNA,trade,FR,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,33.25159,33.25159,31.54701,31.54701,38.82572,340.58464,407.10154
+eTIMES-EUNA,trade,GR,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,13.33981,13.33981,13.33981,24.21029,57.54521,55.193,55.39346
+eTIMES-EUNA,trade,HR,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,0.24567,0.24567,0.24567,0.18123,0.01739,0.0,4.85894
+eTIMES-EUNA,trade,HU,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,2.85269,2.85269,2.85269,2.32604,2.08467,10.94197,35.95065
+eTIMES-EUNA,trade,IE,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,0.07964,0.07964,0.07964,0.07964,0.07495,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,87.15821,87.15821,87.15821,87.15821,351.56959,382.18295,391.40503
+eTIMES-EUNA,trade,LT,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,0.23838,0.23838,0.23838,0.23838,0.23838,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,0.45717,0.45717,0.45717,0.45717,8.29968,12.67301,14.28641
+eTIMES-EUNA,trade,LV,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,0.01965,0.01845,0.02039,0.02039,0.0145,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,12.23326,12.23326,11.78621,11.78621,6.77657,129.4797,125.38209
+eTIMES-EUNA,trade,NO,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,0.10823,0.10823,0.10823,0.08913,0.06037,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,0.92412,0.92412,0.83719,0.83719,0.6707,78.68138,121.56938
+eTIMES-EUNA,trade,PT,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,3.34309,3.34309,3.34309,35.58281,100.52488,98.90763,121.20195
+eTIMES-EUNA,trade,RO,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,5.10234,5.10234,5.10234,4.43203,0.7193,7.1244,28.20089
+eTIMES-EUNA,trade,SE,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,1.242,1.242,1.242,1.0921,0.77698,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,0.94827,0.94827,0.94827,0.45561,0.07636,3.00256,9.31519
+eTIMES-EUNA,trade,SK,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,1.87864,1.87864,1.87864,1.41249,0.01051,0.0,14.42097
+eTIMES-EUNA,trade,GB,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,38.20621,38.20621,34.26159,34.26159,3.05978,0.0,310.53142
+eTIMES-EUNA,trade,AT,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,1.8907,1.8907,1.8907,1.8907,0.49738,0.0,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,2.23847,2.23847,2.23847,2.23847,0.83737,29.86023,65.69961
+eTIMES-EUNA,trade,BG,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,45.2378
+eTIMES-EUNA,trade,CZ,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DE,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,11.05036,11.05036,11.05036,11.05036,4.2544,0.0,41.23948
+eTIMES-EUNA,trade,DK,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,0.84282,0.84282,0.84282,0.84282,0.0,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,139.43496
+eTIMES-EUNA,trade,FR,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,3.68515,3.68515,3.68515,3.68515,3.05699,0.0,112.96484
+eTIMES-EUNA,trade,GR,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,0.8736,0.8736,0.8736,0.53595,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,1.76341,1.76341,1.76341,1.76341,1.46282,0.0,79.14857
+eTIMES-EUNA,trade,LT,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,0.0,0.0,0.0,0.0,0.0,2.02738,6.06685
+eTIMES-EUNA,trade,NL,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,2.14862,2.14862,2.14862,0.6931,0.0,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,0.67941,0.67941,0.67941,0.32199,0.0,0.0,0.0
+eTIMES-EUNA,trade,PT,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,1.38198,1.38198,0.65808,0.65808,0.0,63.02291,99.98232
+eTIMES-EUNA,trade,RO,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,0.9702,0.9702,0.9702,0.441,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SK,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,18.62678,18.62678,17.43803,11.83528,10.10347,21.73772,23.94188
+eTIMES-EUNA,trade,DE,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,76.18462,76.43055,70.21799,43.38826,34.33688,175.36748,286.90914
+eTIMES-EUNA,trade,DK,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,21.77467,22.00442,20.16774,8.45792,5.7819,77.73649,89.1228
+eTIMES-EUNA,trade,ES,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,0.08064,0.08064,0.08064,0.08064,0.04032,0.04032,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,0.65708,0.63904,0.56019,0.60999,0.40441,0.35548,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,0.14481,0.14481,0.04138,0.04138,0.04138,0.03785,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,0.28714,0.27249,0.0,0.0,0.0,5.74286,11.48572
+eTIMES-EUNA,trade,LV,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,12.77706,12.77706,11.33042,2.10764,0.0,274.28384,543.86773
+eTIMES-EUNA,trade,NO,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,0.01753,0.01753,0.01753,0.01753,0.0,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,2.16555
+eTIMES-EUNA,trade,PT,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,0.03686,0.03686,0.03686,0.03686,0.03686,0.03686,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,2.22457,2.22457,2.19218,0.0324,0.0324,0.0324,66.433
+eTIMES-EUNA,trade,GB,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,97.1146,98.46668,92.74664,56.28299,47.94984,45.14411,376.4056
+eTIMES-EUNA,trade,AT,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,28.75859,66.69634,88.46571,88.46571,88.46571,88.46571,88.46571
+eTIMES-EUNA,trade,BE,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,17.69858,51.04755,54.91124,54.91124,54.91124,54.91124,54.91124
+eTIMES-EUNA,trade,BG,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,4.4388,4.49019,12.35769,44.47637,60.65843,92.77711,124.38735
+eTIMES-EUNA,trade,CH,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,0.45239,0.45239,0.12585,6.64394,6.64394,6.64394,6.64394
+eTIMES-EUNA,trade,CZ,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,2.4345,38.32809,73.0038,109.12394,144.88197,180.60068,180.60068
+eTIMES-EUNA,trade,DE,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,309.56952,336.07857,419.67102,628.41201,662.57153,662.57153,662.57153
+eTIMES-EUNA,trade,DK,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,28.26351,59.4545,85.4557,115.99984,139.3607,169.68964,169.68964
+eTIMES-EUNA,trade,EE,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,2.49145,23.649,61.02144,99.98169,138.51313,177.36424,194.64487
+eTIMES-EUNA,trade,ES,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,230.37288,467.68703,674.7938,916.94087,1075.39459,1294.29195,1294.29195
+eTIMES-EUNA,trade,FI,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,14.56917,51.43797,86.03856,121.56782,157.5149,188.46702,188.46702
+eTIMES-EUNA,trade,FR,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,147.8978,276.97316,391.50094,508.53034,616.31384,692.78992,692.78992
+eTIMES-EUNA,trade,GR,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,26.03896,60.39717,90.88221,120.58775,153.70633,181.53206,181.53206
+eTIMES-EUNA,trade,HR,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,4.17528,4.57448,12.96278,45.6844,77.72062,109.19264,141.55635
+eTIMES-EUNA,trade,HU,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,2.17379,34.96394,66.43113,99.46741,132.1451,165.18138,165.18138
+eTIMES-EUNA,trade,IE,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,43.7915,91.28116,137.53789,182.83522,207.28546,237.5588,237.78645
+eTIMES-EUNA,trade,IS,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,3.10259,3.10259,3.10259,3.10259,3.10259,3.10259,3.10259
+eTIMES-EUNA,trade,IT,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,61.38671,61.38671,120.51451,193.52185,242.99128,315.31719,394.14649
+eTIMES-EUNA,trade,LT,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,4.14223,18.68575,56.0705,93.45525,127.03424,164.08253,186.92377
+eTIMES-EUNA,trade,LU,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,0.63113,0.63113,0.63113,0.63113,4.64063,4.64063,4.64063
+eTIMES-EUNA,trade,LV,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,0.37622,0.37622,0.07449,0.07449,29.20228,59.06104,88.91428
+eTIMES-EUNA,trade,NL,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,30.10069,65.94707,91.01103,129.12764,157.991,190.58304,190.58304
+eTIMES-EUNA,trade,NO,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,19.86432,60.66949,96.80991,117.46215,117.46215,117.46215,117.46215
+eTIMES-EUNA,trade,PL,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,43.03315,118.88559,185.14082,265.77037,323.30924,403.14777,403.14777
+eTIMES-EUNA,trade,PT,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,38.27148,86.96539,130.79287,183.25597,212.67491,264.55313,264.55298
+eTIMES-EUNA,trade,RO,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,24.7135,88.98613,143.86413,210.538,270.20095,333.0645,333.36936
+eTIMES-EUNA,trade,SE,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,97.82851,168.79635,223.11563,299.39666,355.744,381.40518,381.40518
+eTIMES-EUNA,trade,SI,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,0.01277,0.02129,0.00592,0.00592,0.00241,0.00241,8.51431
+eTIMES-EUNA,trade,SK,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,0.01735,0.01735,0.00483,28.92139,57.83509,86.75165,115.66625
+eTIMES-EUNA,trade,GB,Production|Electricity|Renewable|Wind turbines|Onshore,PJ/year,118.59803,259.46849,396.0161,544.93038,639.4851,744.57137,744.57137
+eTIMES-EUNA,trade,AT,Production|Electricity|Reservoir,PJ/year,16.46761,16.46761,16.46761,16.46761,16.46761,16.46761,16.46761
+eTIMES-EUNA,trade,BG,Production|Electricity|Reservoir,PJ/year,8.79462,8.79462,8.79462,8.79462,8.79462,8.79462,8.79462
+eTIMES-EUNA,trade,CH,Production|Electricity|Reservoir,PJ/year,48.75192,48.75192,48.75192,48.75192,48.75192,48.75192,48.75193
+eTIMES-EUNA,trade,CZ,Production|Electricity|Reservoir,PJ/year,3.14405,3.14405,3.14405,3.14405,3.14405,3.14405,3.14405
+eTIMES-EUNA,trade,DE,Production|Electricity|Reservoir,PJ/year,1.66278,1.66278,1.66278,1.66278,1.66278,1.66278,1.66278
+eTIMES-EUNA,trade,ES,Production|Electricity|Reservoir,PJ/year,73.80504,73.80504,73.80504,73.80504,73.80504,73.80504,73.80504
+eTIMES-EUNA,trade,FR,Production|Electricity|Reservoir,PJ/year,48.47744,48.47744,48.47744,48.47744,48.47744,48.47744,48.47744
+eTIMES-EUNA,trade,GR,Production|Electricity|Reservoir,PJ/year,13.92811,13.92811,13.92811,13.92811,13.92811,13.92811,13.92811
+eTIMES-EUNA,trade,HR,Production|Electricity|Reservoir,PJ/year,13.79147,14.44153,15.0916,15.74166,16.39172,17.04178,17.69184
+eTIMES-EUNA,trade,HU,Production|Electricity|Reservoir,PJ/year,0.38254,0.48272,0.58291,0.6831,0.78329,0.88348,0.98366
+eTIMES-EUNA,trade,IS,Production|Electricity|Reservoir,PJ/year,52.23344,67.2312,73.48637,91.40319,107.48786,123.47189,141.15184
+eTIMES-EUNA,trade,IT,Production|Electricity|Reservoir,PJ/year,23.7628,23.7628,23.7628,23.7628,23.7628,25.4658,29.18729
+eTIMES-EUNA,trade,NO,Production|Electricity|Reservoir,PJ/year,473.31285,483.309,483.309,483.309,483.309,483.309,479.8601
+eTIMES-EUNA,trade,PL,Production|Electricity|Reservoir,PJ/year,0.4251,0.4251,0.4251,0.4251,0.4251,0.4251,0.4251
+eTIMES-EUNA,trade,PT,Production|Electricity|Reservoir,PJ/year,8.40871,8.40871,8.40871,8.40871,8.40871,8.40871,8.40871
+eTIMES-EUNA,trade,RO,Production|Electricity|Reservoir,PJ/year,20.35849,20.35849,20.35849,20.35849,20.35849,20.35849,20.35849
+eTIMES-EUNA,trade,SE,Production|Electricity|Reservoir,PJ/year,221.83718,258.25473,264.108,264.108,264.108,264.108,264.108
+eTIMES-EUNA,trade,SK,Production|Electricity|Reservoir,PJ/year,0.60941,0.60941,0.60941,0.60941,0.60941,0.60941,0.60941
+eTIMES-EUNA,trade,AT,Production|Electricity|Run-of-river hydro,PJ/year,103.25355,115.89567,128.53779,141.1799,153.82202,166.46414,178.32979
+eTIMES-EUNA,trade,BE,Production|Electricity|Run-of-river hydro,PJ/year,0.20538,0.20538,0.20538,0.20538,0.20538,0.20538,0.20538
+eTIMES-EUNA,trade,BG,Production|Electricity|Run-of-river hydro,PJ/year,5.85082,5.85082,5.85082,5.85082,5.85082,5.85082,5.85082
+eTIMES-EUNA,trade,CH,Production|Electricity|Run-of-river hydro,PJ/year,48.41206,48.41206,48.41206,52.56061,57.77858,62.99656,68.21451
+eTIMES-EUNA,trade,CZ,Production|Electricity|Run-of-river hydro,PJ/year,3.42344,3.42344,3.42344,3.42344,3.42344,3.42344,3.42344
+eTIMES-EUNA,trade,DE,Production|Electricity|Run-of-river hydro,PJ/year,57.9517,57.9517,57.9517,57.9517,57.9517,57.9517,57.9517
+eTIMES-EUNA,trade,DK,Production|Electricity|Run-of-river hydro,PJ/year,0.01362,0.01362,0.01362,0.01362,0.01362,0.01269,0.01255
+eTIMES-EUNA,trade,EE,Production|Electricity|Run-of-river hydro,PJ/year,0.09215,0.09215,0.09215,0.09522,0.09599,0.10136,0.10444
+eTIMES-EUNA,trade,ES,Production|Electricity|Run-of-river hydro,PJ/year,18.65506,64.87581,64.87581,64.87581,64.87581,108.65623,154.87699
+eTIMES-EUNA,trade,FI,Production|Electricity|Run-of-river hydro,PJ/year,50.85813,52.4082,42.33769,52.05223,58.04214,62.10095,64.02159
+eTIMES-EUNA,trade,FR,Production|Electricity|Run-of-river hydro,PJ/year,155.91215,177.50193,199.09171,220.68149,242.27127,263.86105,269.3668
+eTIMES-EUNA,trade,GR,Production|Electricity|Run-of-river hydro,PJ/year,1.55341,1.55341,1.55341,1.55341,1.55341,1.51105,1.51104
+eTIMES-EUNA,trade,HR,Production|Electricity|Run-of-river hydro,PJ/year,2.50459,2.50459,2.50459,2.50459,2.50459,2.50459,2.50459
+eTIMES-EUNA,trade,HU,Production|Electricity|Run-of-river hydro,PJ/year,0.31492,0.31492,0.31492,0.31492,0.31492,0.31492,0.31492
+eTIMES-EUNA,trade,IE,Production|Electricity|Run-of-river hydro,PJ/year,2.46243,2.46243,2.46243,2.46243,2.46243,2.75203,3.04162
+eTIMES-EUNA,trade,IT,Production|Electricity|Run-of-river hydro,PJ/year,112.30995,112.30995,112.30995,112.30995,119.4012,123.24739,123.24739
+eTIMES-EUNA,trade,LT,Production|Electricity|Run-of-river hydro,PJ/year,1.5285,1.5285,1.5285,1.5285,1.5285,1.69568,1.86286
+eTIMES-EUNA,trade,LU,Production|Electricity|Run-of-river hydro,PJ/year,0.048,0.31199,0.57597,0.83996,1.10395,1.36794,1.63192
+eTIMES-EUNA,trade,LV,Production|Electricity|Run-of-river hydro,PJ/year,10.67436,10.68169,10.81253,10.81253,10.81253,10.81253,10.81253
+eTIMES-EUNA,trade,NL,Production|Electricity|Run-of-river hydro,PJ/year,0.17021,0.17021,0.17021,0.17021,0.17021,0.17021,0.16292
+eTIMES-EUNA,trade,NO,Production|Electricity|Run-of-river hydro,PJ/year,39.35397,39.35397,39.35397,39.35397,39.35397,39.35397,39.35397
+eTIMES-EUNA,trade,PL,Production|Electricity|Run-of-river hydro,PJ/year,5.69877,5.69878,5.69878,11.45524,11.45524,11.45524,11.45524
+eTIMES-EUNA,trade,PT,Production|Electricity|Run-of-river hydro,PJ/year,24.94739,24.94739,24.94739,24.94739,24.94739,24.94739,24.71186
+eTIMES-EUNA,trade,RO,Production|Electricity|Run-of-river hydro,PJ/year,38.17056,38.17056,38.17056,38.17056,38.17056,38.17056,40.3944
+eTIMES-EUNA,trade,SI,Production|Electricity|Run-of-river hydro,PJ/year,19.3954,20.84091,22.28643,23.73194,25.17746,26.62297,27.41909
+eTIMES-EUNA,trade,SK,Production|Electricity|Run-of-river hydro,PJ/year,13.08932,13.08932,13.08932,13.08932,13.08932,13.08932,13.08932
+eTIMES-EUNA,trade,GB,Production|Electricity|Run-of-river hydro,PJ/year,12.44422,12.44422,12.44422,12.44422,12.44422,12.44422,12.44422
+eTIMES-EUNA,trade,BG,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BG,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BG,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BG,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BG,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BG,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BG,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BG,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BG,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BG,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BG,Production|Electricity|Conventional|Sludge,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BG,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BG,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BG,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BG,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CZ,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DE,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DE,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DE,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DE,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DE,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DE,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DE,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DE,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DE,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DE,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DE,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DE,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Conventional|Sludge,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PL,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Conventional|Sludge,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,AT,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Reservoir,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,DK,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,ES,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Reservoir,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Conventional|Sludge,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FI,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,FR,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Conventional|Sludge,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HR,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,HU,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Reservoir,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Conventional|Sludge,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IE,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Conventional|Sludge,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IT,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Conventional|Sludge,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Reservoir,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NL,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PT,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PT,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PT,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PT,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PT,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PT,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PT,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PT,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PT,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PT,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PT,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PT,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PT,Production|Electricity|Conventional|Sludge,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PT,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PT,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PT,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,PT,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Conventional|Sludge,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,RO,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Run-of-river hydro,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SE,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Reservoir,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Conventional|Sludge,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GB,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Conventional|Sludge,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Conventional|Coal pc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,GR,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Conventional|Coal pc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Reservoir,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Conventional|Sludge,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SI,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Conventional|Coal pc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Reservoir,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Conventional|Sludge,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,BE,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Conventional|Coal pc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Conventional|Oil,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,CH,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Conventional|Sludge,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Conventional|Coal pc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Reservoir,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,EE,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Conventional|Sludge,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Conventional|Coal pc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Reservoir,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LT,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Conventional|Sludge,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Conventional|Coal pc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Conventional|Oil,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Reservoir,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LU,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Conventional|Sludge,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Conventional|Coal pc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Reservoir,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,LV,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Renewable|Geothermal,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Conventional|Sludge,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Conventional|Coal pc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Conventional|Oil,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Renewable|Biogas chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,NO,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SK,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SK,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SK,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SK,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SK,Production|Electricity|Conventional|Coal pc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SK,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SK,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SK,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SK,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SK,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SK,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SK,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SK,Production|Electricity|Conventional|Sludge,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SK,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SK,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SK,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,SK,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Renewable|Photovoltaic,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Conventional|Oil chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Renewable|Photovoltaic residential,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Conventional|Gas cc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Conventional|Coal igcc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Conventional|Sludge,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Renewable|Biomass chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Renewable|Photovoltaic commercial,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Conventional|Coal pc hard w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Conventional|Oil w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Conventional|Waste-to-Energy,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Conventional|Coal pc hard,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Nuclear|Pressure water reactor,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Conventional|Gas w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Renewable|Biomass igcc w/ CCS,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Renewable|CSP,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Conventional|Gas oc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Renewable|Biogas chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Renewable|Biomass st,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Conventional|Coal igcc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Renewable|Wind turbines|Offshore,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Renewable|Biomass igcc,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Conventional|Coal pc lignite,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Run-of-river hydro,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Renewable|Biogas,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Renewable|Biogas fuel cell,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Conventional|Coal chp,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+eTIMES-EUNA,trade,IS,Production|Electricity|Conventional|Other,PJ/year,0.0,0.0,0.0,0.0,0.0,0.0,0.0

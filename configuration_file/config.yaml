@@ -1,0 +1,549 @@
+# Configuration file for custom scenarios for `premise`
+# Energy Perspective Scenario 2050+
+# https://www.bfe.admin.ch/bfe/en/home/policy/energy-perspectives-2050-plus.html/
+
+---
+
+production pathways:
+  hydro_run_of_river:
+    production volume:
+      variable: Production|Electricity|Run-of-river hydro
+    ecoinvent alias:
+      name: electricity production, hydro, run-of-river
+      reference product: electricity, high voltage
+      exists in original database: True
+ 
+  hydro_reservoir:
+    production volume:
+      variable: Production|Electricity|Reservoir
+    ecoinvent alias:
+      name: electricity production, hydro, reservoir, alpine region
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  nuclear_pressure_water:
+    production volume:
+      variable: Production|Electricity|Nuclear|Pressure water reactor
+    ecoinvent alias:
+      name: electricity production, nuclear, pressure water reactor
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  conventional_waste:
+    production volume:
+      variable: Production|Electricity|Conventional|Waste-to-Energy
+    ecoinvent alias:
+      name: treatment of municipal solid waste, incineration
+      reference product: electricity, for reuse in municipal waste incineration only
+      exists in original database: True
+  
+  conventional_sludge:
+    production volume:
+      variable: Production|Electricity|Conventional|Sludge
+    ecoinvent alias:
+      name: treatment of sewage sludge, 75% water, WWT, WW from pig iron production, sanitary landfill
+      reference product: electricity, medium voltage
+      exists in original database: True
+
+  gas cc:
+    production volume:
+      variable: Production|Electricity|Conventional|Gas cc
+    ecoinvent alias:
+      name: electricity production, natural gas, combined cycle power plant
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  gas cc ccs:
+    production volume:
+      variable: Production|Electricity|Conventional|Gas w/ CCS
+    ecoinvent alias:
+      name: electricity production, at natural gas-fired combined cycle power plant, post, pipeline 200km, storage 1000m
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  gas oc:
+    production volume:
+      variable: Production|Electricity|Conventional|Gas oc
+    ecoinvent alias:
+      name: electricity production, natural gas, conventional power plant
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  gas chp:
+    production volume:
+      variable: Production|Electricity|Conventional|Gas chp
+    ecoinvent alias:
+      name: heat and power co-generation, natural gas, conventional power plant, 100MW electrical
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  coal chp:
+    production volume:
+      variable: Production|Electricity|Conventional|Coal chp
+    ecoinvent alias:
+      name: heat and power co-generation, hard coal
+      reference product: electricity, high voltage
+      exists in original database: True  
+
+  coal igcc hard:
+    production volume:
+      variable: Production|Electricity|Conventional|Coal igcc hard
+    ecoinvent alias:
+      name: electricity production, at hard coal-fired IGCC power plant
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  coal igcc lignite:
+    production volume:
+      variable: Production|Electricity|Conventional|Coal igcc lignite
+    ecoinvent alias:
+      name: electricity production, at lignite-fired IGCC power plant
+      reference product: electricity, high voltage
+      exists in original database: True    
+  
+  coal pc hard:
+    production volume:
+      variable: Production|Electricity|Conventional|Coal pc hard
+    ecoinvent alias:
+      name: electricity production, hard coal
+      reference product: electricity, high voltage
+      exists in original database: True
+  
+  coal pc hard ccs:
+    production volume:
+      variable: Production|Electricity|Conventional|Coal pc hard w/ CCS
+    ecoinvent alias:
+      name: electricity production, at hard coal-fired power plant, oxy, pipeline 200km, storage 1000m
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  coal pc lignite:
+    production volume:
+      variable: Production|Electricity|Conventional|Coal pc lignite
+    ecoinvent alias:
+      name: electricity production, lignite
+      reference product: electricity, high voltage
+      exists in original database: True   
+
+  oil:
+    production volume:
+      variable: Production|Electricity|Conventional|Oil
+    ecoinvent alias:
+      name: electricity production, oil
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  oil ccs:
+    production volume:
+      variable: Production|Electricity|Conventional|Oil w/ CCS
+    ecoinvent alias:
+      name: electricity production, at oil-fired power plant, combined cycle, oxy, pipeline 200km, storage 1000m
+      reference product: electricity, high voltage
+      exists in original database: True
+  
+  oil chp:
+    production volume:
+      variable: Production|Electricity|Conventional|Oil chp
+    ecoinvent alias:
+      name: heat and power co-generation, oil
+      reference product: electricity, high voltage
+      exists in original database: True 
+
+  conventional_other:
+    production volume:
+      variable: Production|Electricity|Conventional|Other
+    ecoinvent alias:
+      name: electricity production, natural gas, combined cycle power plant
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  pv residential:
+    production volume:
+      variable: Production|Electricity|Renewable|Photovoltaic residential
+    ecoinvent alias:
+      name: electricity production, photovoltaic, residential
+      reference product: electricity, low voltage
+      exists in original database: True
+
+  pv commercial:
+    production volume:
+      variable: Production|Electricity|Renewable|Photovoltaic commercial
+    ecoinvent alias:
+      name: electricity production, photovoltaic, commercial
+      reference product: electricity, low voltage
+      exists in original database: True
+
+  csp:
+    production volume:
+      variable: Production|Electricity|Renewable|CSP
+    ecoinvent alias:
+      name: electricity production, solar tower power plant, 20 MW
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  wind onshore:
+    production volume:
+      variable: Production|Electricity|Renewable|Wind turbines|Onshore
+    ecoinvent alias:
+      name: electricity production, wind, >3MW turbine, onshore
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  wind offshore:
+    production volume:
+      variable: Production|Electricity|Renewable|Wind turbines|Offshore
+    ecoinvent alias:
+      name: electricity production, wind, 1-3MW turbine, offshore
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  geothermal:
+    production volume:
+      variable: Production|Electricity|Renewable|Geothermal
+    ecoinvent alias:
+      name: electricity production, deep geothermal
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  biomass chp:
+    production volume:
+      variable: Production|Electricity|Renewable|Biomass chp
+    ecoinvent alias:
+      name: heat and power co-generation, wood chips, 6667 kW
+      reference product: electricity, high voltage
+      exists in original database: True
+  
+  biomass igcc:
+    production volume:
+      variable: Production|Electricity|Renewable|Biomass igcc
+    ecoinvent alias:
+      name: electricity production, at biomass-fired IGCC power plant
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  biomass igcc ccs:
+    production volume:
+      variable: Production|Electricity|Renewable|Biomass igcc w/ CCS
+    ecoinvent alias:
+      name: electricity production, at biomass-fired IGCC power plant, pre, pipeline 200km, storage 1000m
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  biomass st:
+    production volume:
+      variable: Production|Electricity|Renewable|Biomass st
+    ecoinvent alias:
+      name: electricity production, at wood burning power plant
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  biogas chp:
+    production volume:
+      variable: Production|Electricity|Renewable|Biogas chp
+    ecoinvent alias:
+      name: heat and power co-generation, biogas, gas engine
+      reference product: electricity, high voltage
+      exists in original database: True
+
+  biogas fuel cell:
+    production volume:
+      variable: Production|Electricity|Renewable|Biogas fuel cell
+    ecoinvent alias:
+      name: biomethane, low pressure burned in solid oxide fuel cell 125kWe, future
+      reference product: electricity, low voltage
+      exists in original database: True
+
+  import from AT:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from AT
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from AT
+
+  import from BE:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from BE
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from BE
+
+  import from BG:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from BG
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from BG
+
+  import from CH:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from CH
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from CH
+
+  import from CZ:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from CZ
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from CZ
+
+  import from DE:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from DE
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from DE
+
+  import from DK:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from DK
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from DK
+
+  import from EE:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from EE
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from EE
+
+  import from ES:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from ES
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from ES
+
+  import from FI:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from FI
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from FI
+
+  import from FR:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from FR
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from FR
+
+  import from GB:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from GB
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from GB
+
+  import from GR:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from GR
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from GR
+
+  import from HR:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from HR
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from HR
+
+  import from HU:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from HU
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from HU
+
+  import from IT:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from IT
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from IT
+
+  import from LT:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from LT
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from LT
+
+  import from LU:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from LU
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from LU
+
+  import from LV:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from LV
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from LV
+
+  import from NL:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from NL
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from NL
+
+  import from NO:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from NO
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from NO
+
+  import from PL:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from PL
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from PL
+
+  import from PT:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from PT
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from PT
+
+  import from RO:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from RO
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from RO
+
+  import from SE:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from SE
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from SE
+
+  import from SI:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from SI
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from SI
+
+  import from SK:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from SK
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from SK
+
+  import from IE:
+    ecoinvent alias:
+      exists in original database: true
+      name: electricity, high voltage, import from IE
+      reference product: electricity, high voltage
+    production volume:
+      variable: Production|Electricity|Import|Import from IE
+
+
+markets:
+
+  - name: market for electricity, high voltage
+    reference product: electricity, high voltage
+    unit: kilowatt hour
+    includes:
+    - hydro_run_of_river
+    - hydro_reservoir
+    - nuclear_pressure_water
+    - conventional_waste
+    - conventional_sludge
+    - gas cc
+    - gas cc ccs
+    - gas oc
+    - gas chp
+    - coal chp
+    - coal igcc hard
+    - coal igcc lignite
+    - coal pc hard
+    - coal pc hard ccs
+    - coal pc lignite
+    - oil
+    - oil ccs
+    - oil chp
+    - conventional_other
+    - pv residential
+    - pv commercial
+    - csp
+    - wind onshore
+    - wind offshore
+    - geothermal
+    - biomass chp
+    - biomass igcc
+    - biomass igcc ccs
+    - biomass st
+    - biogas chp
+    - biogas fuel cell
+    - import from AT
+    - import from BE
+    - import from BG
+    - import from CH
+    - import from CZ
+    - import from DE
+    - import from DK
+    - import from EE
+    - import from ES
+    - import from FI
+    - import from FR
+    - import from GB
+    - import from GR
+    - import from HR
+    - import from HU
+    - import from IE
+    - import from IT
+    - import from LT
+    - import from LU
+    - import from LV
+    - import from NL
+    - import from NO
+    - import from PL
+    - import from PT
+    - import from RO
+    - import from SE
+    - import from SI
+    - import from SK
+    
+    replaces:
+    - name: market for electricity, high voltage
+      product: electricity, high voltage
