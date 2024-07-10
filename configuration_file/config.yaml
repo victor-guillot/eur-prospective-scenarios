@@ -477,10 +477,28 @@ production pathways:
     production volume:
       variable: Production|Electricity|Import|Import from IE
 
+  medium_to_high:
+    production volume:
+      variable: Place holder
+    ecoinvent alias:
+      name: market for electricity, high voltage (TIMES)
+      reference product: electricity, high voltage
+      exists in original database: False
+      new dataset: True
+
+  low_to_medium:
+    production volume:
+      variable: Place holder
+    ecoinvent alias:
+      name: market for electricity, medium voltage (TIMES)
+      reference product: electricity, medium voltage
+      exists in original database: False
+      new dataset: True
+
 
 markets:
 
-  - name: market for electricity, high voltage
+  - name: market for electricity, high voltage (TIMES)
     reference product: electricity, high voltage
     unit: kilowatt hour
     includes:
@@ -543,7 +561,24 @@ markets:
     - import from SE
     - import from SI
     - import from SK
-    
-    replaces:
-    - name: market for electricity, high voltage
-      product: electricity, high voltage
+
+    except regions:
+      - World
+
+  - name: market for electricity, medium voltage (TIMES)
+    reference product: electricity, medium voltage
+    unit: kilowatt hour
+    includes:
+      - medium_to_high
+
+    except regions:
+      - World
+
+  - name: market for electricity, low voltage (TIMES)
+    reference product: electricity, low voltage
+    unit: kilowatt hour
+    includes:
+      - low_to_medium
+
+    except regions:
+      - World

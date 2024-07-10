@@ -1,0 +1,4 @@
+# ignore anything inside the export folder
+export/
+# ignore all files that end with .log
+*.log
